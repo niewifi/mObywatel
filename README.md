@@ -1,7 +1,7 @@
 # 🌐 Kolekcjonerska wersja mObywatela  
 
 ![Status](https://img.shields.io/badge/status-collectors--edition-blue)  
-![Kontakt](https://img.shields.io/badge/discord-fraudmafia-5865F2?logo=discord&logoColor=white)  
+![Kontakt](https://img.shields.io/badge/discord-moaz23__-5865F2?logo=discord&logoColor=white)  
 
 > 📱 Specjalna **kolekcjonerska edycja** aplikacji mObywatel.
 
