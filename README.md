@@ -45,7 +45,6 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/KeHeroo/mObywatel/refs/heads/main/mobywatel30/Screenshot_20251109_180822_Kiwi%20Browser.jpg" width="300">
-  <img src="https://raw.githubusercontent.com/KeHeroo/mObywatel/refs/heads/main/mobywatel30/Screenshot_20251109_181039_Kiwi%20Browser.jpg" width="300">
 </p>
 
 </details>
