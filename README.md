@@ -45,6 +45,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/KeHeroo/mObywatel/refs/heads/main/mobywatel30/Screenshot_20251109_180822_Kiwi%20Browser.jpg" width="300">
+  <img src="https://media.discordapp.net/attachments/1438982705332097105/1447529190181044235/Screenshot_20251208_110400_Chrome.jpg?ex=6937f41c&is=6936a29c&hm=afa3e929f505a569a83ae88de9792d6fc07e025502f47ed877b8f8f183b85de5&=&format=webp&width=375&height=960" width="300">
 </p>
 
 </details>
