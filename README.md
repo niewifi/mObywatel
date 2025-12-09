@@ -24,9 +24,7 @@
 ---
 
 ## 🌟 Dostępne Wersje
-
 ### 🔷 mObywatel 2.0 - Classic Edition
-
 <details>
 <summary>📸 Kliknij aby zobaczyć screenshoty »</summary>
 
@@ -43,9 +41,7 @@
 </details>
 
 ---
-
 ### 🔶 mObywatel 3.0 - Premium Edition ⭐ (NAJNOWSZA)
-
 <details>
 <summary>📸 Kliknij aby zobaczyć screenshoty »</summary>
 
