@@ -15,12 +15,6 @@
 
 </div>
 
----
-
-**✨ Limitowana wersja z unikalnymi modyfikacjami ✨**
-
----
-
 ## 📱 O Projekcie
 
 > 🎨 Specjalna edycja z **autorskimi zmianami wizualnymi**  
