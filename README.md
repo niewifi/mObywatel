@@ -1,18 +1,4 @@
----
 
-## 📞 Kontakt
-
-<div align="center">
-
-### 💬 Masz pytania? Chcesz zobaczyć więcej? 
-**🎮 Discord:** `moaz23__`
-
-[![Discord](https://img.shields.io/badge/Discord-moaz23__-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![Status](https://img.shields.io/badge/Status-Collectors_Edition-blue?style=for-the-badge)](https://github.com)
-
-</div>
-
----
 
 
 # 🏆 mObywatel - Edycja Kolekcjonerska 🎯
